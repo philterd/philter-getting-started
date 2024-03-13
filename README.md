@@ -8,15 +8,14 @@ The [Getting Started with Philter](https://github.com/mtnfog/philter-getting-sta
 
 Documentation
 
-* [Philter Home Page](https://www.mtnfog.com/products/philter/)
-* [Philter User's Guide](https://philter.mtnfog.com)
+* [Philter Home Page](https://www.philterd.io/philter/)
 
 Projects
 
-* [Philter CLI](https://github.com/mtnfog/philter-cli)
-* [Philter Java SDK](https://github.com/mtnfog/philter-sdk-java)
-* [Philter .NET SDK](https://github.com/mtnfog/philter-sdk-net)
-* [Philter Go SDK](https://github.com/mtnfog/philter-sdk-golang)
+* [Philter CLI](https://github.com/philterd/philter-cli)
+* [Philter Java SDK](https://github.com/philterd/philter-sdk-java)
+* [Philter .NET SDK](https://github.com/philterd/philter-sdk-net)
+* [Philter Go SDK](https://github.com/philterd/philter-sdk-golang)
 
 ## License
 
